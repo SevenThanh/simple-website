@@ -35,3 +35,23 @@ p {
     font-size: 20px;
     font-family: Segoe UI;
 }
+
+.first-page-imgages {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.first-page-imgages img {
+    width: 30%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px;
+}
+.first-page .cat{
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+    font-style: italic;
+}
