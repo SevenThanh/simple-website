@@ -1,0 +1,28 @@
+.exam-section h2 {
+    font-size: 30px;
+    margin: 150px 0 120px 80px;
+    font-weight: 600;
+    color: white;
+    line-height: 1.1;
+}
+
+.exam-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+    padding: 0 80px;
+    margin-bottom: 80px;
+}
+
+.exam-item {
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.exam-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: contain;
+}
