@@ -39,7 +39,7 @@ function Exam() {
     return (
         <div className='exam-section'>
             <h2>
-                3. Times when I didn't have to work 25 hours a week to help with my tuition, and my friends' meal swipes came in clutch
+                3. Times when I didn't have to overwork to help with my tuition, and my friends' meal swipes came in clutch
             </h2>
             <div className="exam-grid">
                 {exams.map(exam => (

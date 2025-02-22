@@ -13,7 +13,7 @@ html, body, #root {
     transform: translate(-50%, -50%);
     background-color: white;
     width: 40%;
-    height: 90vh;
+    height: 100vh;
 }
   
 .first-page {
@@ -54,4 +54,5 @@ p {
     width: 100%;
     margin-top: 10px;
     font-style: italic;
+    color: black;
 }

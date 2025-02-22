@@ -53,7 +53,7 @@ function Experience () {
       {
         title: "Undergraduate Research Assistant",
         company: "Stevens",
-        duration: "Mar 2023 - Jun 2024",
+        duration: "Mar 2024 - Jun 2024",
         responsibilities: [
           "To date, very few oral medications have been developed to treat COVID-19, highlighting the critical need for more oral treatments. Our research focused on discovering novel inhibitors for the SARS-CoV-2 main protease using AI/ML computational tools.",
           "Learned under Dr. Sunil Paliwal, my work involved using ML/AI computational tools such as Schrodinger to design new oral medicines for COVID-19 by molecular modeling, docking, and virtual screening."
