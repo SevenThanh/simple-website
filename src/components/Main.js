@@ -7,12 +7,12 @@ function Main() {
       <div className="first-page">
         <h1>Hello there, I'm Johan Nguyen</h1>
         <p>
-          I created this simple website for you to get to know me both{' '}
-          <Link to="/professionally">professionally</Link> and{' '}
+          I created this simple website for you to get to know me {' '}
+          <Link to="/professionally">professionally</Link> or{' '}
           <Link to="/personally">personally</Link> (preferably both because I think I'm pretty awesome sauce😊)
         </p>
         <p>
-        I’d like to sincerely thank Dr. Jason Rabinovitch, Dr. Virginia Con, and Dr. Philippe Meunier for agreeing to write me a letter of recommendation. 
+        I’d like to sincerely thank Dr. Jason Rabinovitch, Dr. Virginia Conn, and Dr. Philippe Meunier for agreeing to write me a letter of recommendation. 
         </p>
         <p>
         To you, it may just be a letter, but to me, it’s a chance to build a brighter future—one where I can help my grandma with her cancer treatment, 
