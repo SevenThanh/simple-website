@@ -28,10 +28,14 @@ function Exam() {
         },
         {
             id: 7,
-            img: '/Exam8.jpg'
+            img: '/Exam7.jpg'
         },
         {
             id: 8,
+            img: '/Exam8.jpg'
+        },
+        {
+            id: 9,
             img: '/Exam9.jpg'
         }
     ];
@@ -39,7 +43,7 @@ function Exam() {
     return (
         <div className='exam-section'>
             <h2>
-                3. Times when I didn't have to overwork to help with my tuition, and my friends' meal swipes came in clutch
+                3. What I'm capable of if tuition wasn't a problem (somtimes food too honestly)
             </h2>
             <div className="exam-grid">
                 {exams.map(exam => (

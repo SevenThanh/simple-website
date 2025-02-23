@@ -1,0 +1,52 @@
+.aboutme-section {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    margin: 100px 150px 0 80px;
+}
+  
+.about-personal-title {
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    color: white;
+}
+  
+.about-personal-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start; 
+    justify-content: space-between;
+}
+  
+.about-personal-text {
+    flex: 2;
+    font-size: 18px;
+    line-height: 1.6;
+    color: white;
+    padding: 20px;
+}
+
+.about-personal-text li {
+    padding: 5px;
+    font-size: 18px;
+}
+
+  
+.about-personal-image {
+    flex: 1;
+    margin-left: 20px;
+}
+  
+.profile-image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}  
+  
+.image-description {
+    margin-top: 10px;
+    font-size: 16px;
+    color: var(--light-slate);
+    font-style: italic;
+} 

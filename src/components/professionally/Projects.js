@@ -9,10 +9,10 @@ const ProjectData = [
     <div  className='cwd-description'>
       <ul>
         <li>
-        A program I created for underrepresented high school students to learn Python, machine learning, and AI research as part of STEP (Student Development & Enrichment Programs).
+        A program I created for underrepresented high school students to learn Python, Machine Learning, and AI Research as part of STEP (Student Development & Enrichment Programs).
         </li>
         <li>
-        Developed 60+ pages of curriculum and the program website using JSX, CSS, React, both reviewed and approved by Dr. Rabinovitch (ex-NASA) and Dr. Koskinen (ex-Amazon, IBM Research)
+        Developed 60+ pages of curriculum and the program website using JSX, CSS, React, reviewed and approved by Dr. Rabinovitch (ex-NASA) and Dr. Koskinen (ex-Amazon, IBM Research)
         </li>
       </ul>
     </div>

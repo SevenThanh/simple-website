@@ -1,8 +1,10 @@
+import Aboutme from "./Aboutme";
+import Hobbies from "./Hobbies";
 function Personally() {
     return (
       <div className="content-section">
-        <h2>Personal Interests</h2>
-        {/* Add your personal content here */}
+        <Aboutme/>
+        <Hobbies />
       </div>
     );
   }

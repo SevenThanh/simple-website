@@ -1,0 +1,73 @@
+.photos-container {
+    display: flex;
+    padding: 40px;
+    gap: 24px;
+    height: 100vh;
+}
+
+.side-column {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    width: 25%;
+}
+
+.center-column {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    width: 50%;
+}
+
+.photo {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.horizontal-photo {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.photos-title {
+    font-size: 30px;
+    margin: 10px 0px 20px 100px;
+    font-weight: 600px;
+    color: white;  
+}
+
+.hobbies-title {
+    padding: 1rem;
+    margin: 200px 150px 80px 100px;
+    color: white;
+}
+
+.gym-title {
+    font-size: 30px;
+    margin: 200px 0px 20px 100px;
+    font-weight: 600px;
+    color: white;
+}
+
+.gym-container li {
+    margin: 10px 0px 20px 100px;
+    color: white;
+    font-size: 18px;
+}
+
+.jim-images {
+    display: flex;
+    gap: 30px;
+    margin-left: 110px;
+}
+
+.jim-images img {
+    width: 45%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px;
+}
