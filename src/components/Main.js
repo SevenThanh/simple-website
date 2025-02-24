@@ -7,9 +7,9 @@ function Main() {
       <div className="first-page">
         <h1>Hello there, I'm Johan Nguyen</h1>
         <p>
-          I created this simple website for you to get to know me {' '}
-          <Link to="/professionally">professionally</Link> or{' '}
-          <Link to="/personally">personally</Link> (preferably both because I think I'm pretty awesome sauce😊)
+          I created this simple website for you to explore my {' '}
+          <Link to="/professionally"><strong>profesional work</strong></Link> or get to know me {' '}
+          <Link to="/personally"><strong>personally</strong></Link> (preferably both because I think I'm pretty awesome sauce😊)
         </p>
         <p>
         I’d like to sincerely thank Dr. Jason Rabinovitch, Dr. Virginia Conn, and Dr. Philippe Meunier for agreeing to write me a letter of recommendation. 
