@@ -98,14 +98,12 @@ function Hobbies() {
                             <li>My grandma to cancer, my aunt to gang violence, and others to the system itself, made me wonder if fairness is just an illusion</li>
                         </ul>
                     </li>
-                    <li> Finding Answers
+                    <li> Growing Interest
                         <ul>
                             <li>It wasn't just an academic interest, it was my way of making sense of a world that never gave me solid ground to stand on</li>
-                        </ul>
-                    </li>
-                    <li>A growing interest in psychology and philosophy
-                        <ul>
-                            <li>My need to adapt and understand my surroundings turned into a fascination with how people think and why they act the way they do</li>
+                            <li>
+                            My need to adapt and understand my surroundings turned into a fascination with how people think and why they act the way they do
+                            </li>
                         </ul>
                     </li>
                     <li>Purpose
