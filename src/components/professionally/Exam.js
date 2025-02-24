@@ -52,7 +52,7 @@ function Exam() {
         <div>
         <div className='exam-section'>
             <h2>
-                3. What I'm capable of if tuition wasn't a problem (somtimes food too honestly), further proof can be provided upon request
+                3. What I'm capable of without the stress of tuition
             </h2>
             <div className="exam-grid">
                 {exams.map(exam => (

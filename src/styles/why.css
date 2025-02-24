@@ -1,5 +1,28 @@
 .why-title {
-    padding: 1rem;
-    margin: 100px 150px 80px 100px;
+    font-size: 30px;
+    margin: 80px 0px 20px 100px;
+    font-weight: 600px;
+    color: white; 
+}
+
+.why-container {
+    margin-top: 1rem;
+    padding-left: 5rem;
+    font-size: 20px;
     color: white;
+    margin-bottom: 50px;
+}
+
+.why-container ul li {
+    margin-top: 0.5rem;
+    font-weight: 400; 
+}
+
+.why-container ul {
+    margin-bottom: 2rem;
+}
+
+.why-container li {
+    color: white;
+    margin-bottom: 1rem; 
 }

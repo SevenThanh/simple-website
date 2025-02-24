@@ -21,9 +21,9 @@ function Why () {
             <div>
                 <h3>ii) Other Things</h3>
                 <ul>
-                    <li>I want to transfer to a bigger school for more research opportunities, clubs, and activities.</li>
-                    <li>I'm interested in learning more about <strong>Psychology & Philosophy</strong>, but it's difficult to enroll in the humanities classes I want here.</li>
-                    <li>Most of the classes I want to take don't even have professors teaching them.</li>
+                    <li>I want to transfer to a bigger school for more research opportunities, clubs, and activities</li>
+                    <li>I'm interested in learning more about <strong>Psychology & Philosophy</strong>, but it's difficult to enroll in the humanities classes I want here</li>
+                    <li>Most of the classes I want to take don't even have professors teaching them</li>
                 </ul>
             </div>
         </div>
