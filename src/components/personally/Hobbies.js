@@ -75,42 +75,42 @@ function Hobbies() {
                 <ol>
                     <li>Why?
                         <ul>
-                            <li>I didn't actively seek philosophy, it was something I was forced into by my circumstances.</li>
+                            <li>I didn't actively seek philosophy, it was something I was forced into by my circumstances</li>
                         </ul>
                     </li>
                     <li>Growing up without a father
                         <ul>
-                            <li>It wasn't just about lacking guidance, it meant having no reference point for what a man is supposed to be.</li>
+                            <li>It wasn't just about lacking guidance, it meant having no reference point for what a man is supposed to be</li>
                         </ul>
                     </li>
                     <li>Moving to a new country at 13
                         <ul>
-                            <li>It wasn't just about language barriers, it was about trying to understand how people think and why they act the way they do.</li>
+                            <li>It wasn't just about language barriers, it was about trying to understand how people think and why they act the way they do</li>
                         </ul>
                     </li>
                     <li>Experiencing bullying
                         <ul>
-                            <li>It made me question whether cruelty is inherent in people or if it's something they become.</li>
+                            <li>It made me question whether cruelty is inherent in people or if it's something they become</li>
                         </ul>
                     </li>
                     <li>Losing loved ones
                         <ul>
-                            <li>My grandma to cancer, my aunt to gang violence, and others to the system itself, made me wonder if fairness is just an illusion.</li>
+                            <li>My grandma to cancer, my aunt to gang violence, and others to the system itself, made me wonder if fairness is just an illusion</li>
                         </ul>
                     </li>
                     <li>Philosophy as a means of survival
                         <ul>
-                            <li>It wasn't just an academic interest; it was my way of making sense of a world that never gave me solid ground to stand on.</li>
+                            <li>It wasn't just an academic interest, it was my way of making sense of a world that never gave me solid ground to stand on</li>
                         </ul>
                     </li>
                     <li>A growing interest in psychology and philosophy
                         <ul>
-                            <li>My survival instinct turned into a fascination with understanding how the world works and why people think the way they do.</li>
+                            <li>My survival instinct turned into a fascination with understanding how the world works and why people think the way they do</li>
                         </ul>
                     </li>
                     <li>Purpose
                         <ul>
-                            <li>I think knowledge isn't just about understanding my own experiences, it's also about creating change.</li>
+                            <li>I think knowledge isn't just about understanding my own experiences, it's also about creating change</li>
                             <li>I want to build an environment where people in underdeveloped areas have the resources and support to grow, rather than being left to figure things out on their own like I was.</li>
                         </ul>
                     </li>
