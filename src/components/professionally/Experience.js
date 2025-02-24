@@ -15,7 +15,8 @@ function Experience () {
           "Blueprint is an organization that utilizes technology to assist non-profits dedicated to supporting communities.",
           "Led a team of 6 student designers and engineers on pro-bono projects to create new brands, design systems, and websites for InReach.org (search this on Google to see our work). Implemented a CMS using Next.js, React, TinaCMS, enabling non-technical users to add, modify, and remove website content easily",
           "Directed the design and improvement of responsive user interfaces, utilizing HTML, Tailwind CSS, and React, attracting over 31,000 visitors and more than 38,000 page-views",
-          "Currently, we’re working with NJ Appleseed to develop a platform that helps immigrants manage medical debt by providing guides, legal forms, and tools to challenge unfair charges and find assistance"
+          "Currently, we’re working with NJ Appleseed to develop a platform that helps immigrants manage medical debt by providing guides, legal forms, and tools to challenge unfair charges and find assistance",
+          "I also do resume-review sessions for over 40 members"
         ]
       },
       {
