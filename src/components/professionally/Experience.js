@@ -59,11 +59,6 @@ function Experience () {
         responsibilities: [
           "Collaborated with the Dr. Normnal Horing to integrate written content, conduct proofreading, and provide technical support",
           "Utilized LaTeX to typeset complex mathematical content, including intricate notations, tables, and technical material for the his's book and research projects",
-          "He actually wrote me a LOR last year for a research program and agreed to let me read it. As I needed to type it for him anyway. Yes, Dr. Horing is a highly respected senior professor.",
-          <span>
-            My name was Thai before I received my US citizenship, if you're interested ->   {' '}
-            <a className='link' href="/letter_horing.pdf">His Letter</a> 
-          </span>
         ]
       },
       {
