@@ -21,7 +21,7 @@
   
 .about-personal-text {
     flex: 2;
-    font-size: 18px;
+    font-size: 25px;
     line-height: 1.6;
     color: white;
     padding: 20px;
@@ -50,3 +50,8 @@
     color: var(--light-slate);
     font-style: italic;
 } 
+
+.col {
+    color:red;
+    text-decoration: underline;
+}

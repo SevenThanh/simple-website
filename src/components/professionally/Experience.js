@@ -14,7 +14,8 @@ function Experience () {
         responsibilities: [
           "Blueprint is an organization that utilizes technology to assist non-profits dedicated to supporting communities.",
           "Led a team of 6 student designers and engineers on pro-bono projects to create new brands, design systems, and websites for InReach.org (search this on Google to see our work). Implemented a CMS using Next.js, React, TinaCMS, enabling non-technical users to add, modify, and remove website content easily",
-          "Directed the design and improvement of responsive user interfaces, utilizing HTML, Tailwind CSS, and React, attracting over 31,000 visitors and more than 38,000 page-views"
+          "Directed the design and improvement of responsive user interfaces, utilizing HTML, Tailwind CSS, and React, attracting over 31,000 visitors and more than 38,000 page-views",
+          "Currently, we’re working with NJ Appleseed to develop a platform that helps immigrants manage medical debt by providing guides, legal forms, and tools to challenge unfair charges and find assistance"
         ]
       },
       {
@@ -34,9 +35,33 @@ function Experience () {
         responsibilities: [
           "Built AI projects and collaborate with a team of 3 to transform a startup's backlog into functional solutions that meet business requirements",
           "Participated in weekend hackathons and gain insights from CEOs of YC startups and senior software engineers at leading tech companies",
-          "My work ranked in the top 1%, and it was so impressive that the CEO of Leafpress (YC S23) personally emailed me, inviting me to join as one of their founding engineers alongside MIT and Harvard engineers/students. Unfortunately, I had to turn down the offer due to the excessive time commitment.",
+          "My work ranked in the top 1%, and it was so impressive that the CEO of Leafpress (YC S23) personally emailed me, inviting me to join as one of their founding engineers alongside MIT and Harvard engineers/students. Unfortunately had to turn down the offer due to the excessive time commitment.",
           <span>
             <a href="/proof.jpg" target="_blank" className="proof-link">Proof</a>
+          </span>
+        ]
+      },
+      {
+        title: "Point72 Academy Insights Scholar",
+        company: "Point72",
+        duration: "May 2024 - Jun 2024",
+        responsibilities: [
+          "A selected program designed to educate students on hedge funds, investment banking, and research analysis" ,
+          "Led by no other than the Head of Investment Professional Development at Point72, Jaimi Goodfriend"
+        ]
+
+      },
+      {
+        title: "Publication Assistant",
+        company: "Stevens",
+        duration: "Nov 2023 - May 2024",
+        responsibilities: [
+          "Collaborated with the Dr. Normnal Horing to integrate written content, conduct proofreading, and provide technical support",
+          "Utilized LaTeX to typeset complex mathematical content, including intricate notations, tables, and technical material for the his's book and research projects",
+          "He actually wrote me a LOR last year for a research program and agreed to let me read it. As I needed to type it for him anyway. Yes, Dr. Horing is a highly respected senior professor.",
+          <span>
+            My name was Thai before I received my US citizenship, if you're interested ->   {' '}
+            <a className='link' href="/letter_horing.pdf">His Letter</a> 
           </span>
         ]
       },
@@ -67,6 +92,14 @@ function Experience () {
           "Mentored under Dr. A. Emrah Bayrak, worked alongside PhD students to develop a multi-sensor wearable system with personalized AI and multimodal biofeedback, designed to enhance the movements of older adults at home",
           "Executed data processing tasks including cleaning and formatting with Python, and utilized SciPy, Numpy, Pandas for mathematical computation. Employed Keras to implement machine learning methods which improved in 30% accuracy"
         ]
+      },
+      {
+        title:"Store Associate",
+        company: "Walgreens",
+        duration: "Sep 2023 - Dec 2023",
+        responsibilities: [
+          "Just a normal Walgreens worker :v"
+        ]
       }
     ];
   
@@ -81,7 +114,7 @@ function Experience () {
   
     return (
       <div className="experience-section">
-        <h2 className="section-title">1. Professional Experience</h2>
+        <h2 className="section-title">1. Work Experience</h2>
         <div className="experience-container">
           <div className="company-bar">
             {experiences.map((experience, index) => (
