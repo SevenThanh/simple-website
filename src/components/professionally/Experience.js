@@ -72,7 +72,7 @@ function Experience () {
         duration: "Jan 2024 - Apr 2024",
         responsibilities: [
           "Reduced user registration drop-offs by 60% by creating a streamlined React UI and Node.js/Express.js REST APIs. Improved registration response times by 50% through optimized MongoDB schemas and efficient indexing.",
-          "Improved registration response times by *50%* through optimized *MongoDB* schemas and efficient indexing.",
+          "Improved registration response times by 50% through optimized MongoDB schemas and efficient indexing.",
           "Built a support chatbot using React, Express.js, utilizing PyTorch to train an NLP model that automates responses to common user queries, reducing support tickets by 80% and accomplishing 5 stars user satisfaction rate."
         ]
       },
