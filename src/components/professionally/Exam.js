@@ -28,7 +28,7 @@ function Exam() {
         },
         {
             id: 7,
-            img: '/Exam7.jpg'
+            img: '/exam7.jpg'
         },
         {
             id: 8,
