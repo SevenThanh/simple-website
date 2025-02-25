@@ -57,7 +57,7 @@ function Experience () {
         company: "Stevens",
         duration: "Nov 2023 - May 2024",
         responsibilities: [
-          "Collaborated with the Dr. Normnal Horing to integrate written content, conduct proofreading, and provide technical support",
+          "Collaborated with Dr. Normnal Horing to integrate written content, conduct proofreading, and provide technical support",
           "Utilized LaTeX to typeset complex mathematical content, including intricate notations, tables, and technical material for the his's book and research projects",
         ]
       },
